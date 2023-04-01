@@ -1,0 +1,8 @@
+OK
+OK
+p1 p2
+d1 d2
+id: 2 hotel: ba7b9e7b9073e745d38122d74045be00 room: deluxe quantity: 2 cost: 4200 check_in 21 check_out 26
+id: 1 hotel: ba7b9e7b9073e745d38122d74045be00 room: premium quantity: 2 cost: 6600 check_in 21 check_out 26
+OK
+id: 2 hotel: ba7b9e7b9073e745d38122d74045be00 room: deluxe quantity: 2 cost: 4200 check_in 21 check_out 26
