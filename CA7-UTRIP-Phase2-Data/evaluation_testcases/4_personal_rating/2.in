@@ -1,0 +1,4 @@
+POST signup ? email sap@gmail.com username a password p
+POST manual_weights ? active true location 2.2 cleanliness 4.13 staff 1.1 facilities 5. value_for_money 3.3
+POST sort ? property rating_personal order ascending
+GET hotels

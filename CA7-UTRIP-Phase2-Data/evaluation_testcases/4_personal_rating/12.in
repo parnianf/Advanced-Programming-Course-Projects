@@ -1,0 +1,3 @@
+POST signup ? email sap@gmail.com username a password p
+POST sort ? property rating_overall order ascending
+GET hotels
