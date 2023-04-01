@@ -1,0 +1,6 @@
+POST signup ? email sap@gmail.com username a password p
+POST ratings ? hotel ba7b9e7b9073e745d38122d74045be00 location 2.1 cleanliness 1.6 staff 4.6 facilities 2.3 value_for_money 1.5 overall_rating 2.58 
+POST ratings ? hotel 60ac1903f046575659e673d05595e452 location 4.2 cleanliness 1.8 staff 2.9 facilities 2.7 value_for_money 4.9 overall_rating 3.44 
+POST ratings ? hotel 9f44a0a7acfd5ce8d7abe69978b2a9e0 location 2 cleanliness 4.5 staff 2.6 facilities 1.1 value_for_money 2.8 overall_rating 2.19 
+POST ratings ? hotel 424e80851ffa9268998759a161ef9620 location 2.5 cleanliness 3.7 staff 3.4 facilities 4.5 value_for_money 2.4 overall_rating 3.3 
+GET estimated_weights
